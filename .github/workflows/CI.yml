@@ -225,6 +225,8 @@ jobs:
         with:
           name: bindings-${{ matrix.settings.target }}
           path: .
+      - name: Move artifacts
+        run: yarn artifacts
       - name: List packages
         run: ls -R .
         shell: bash
