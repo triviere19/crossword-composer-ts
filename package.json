@@ -1,5 +1,5 @@
 {
-  "name": "@crossword/composer",
+  "name": "@crossword-composer-ts/core",
   "version": "1.0.0",
   "description": "Template project for writing node package with napi-rs",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "browser.js"
   ],
   "napi": {
-    "binaryName": "composer",
+    "binaryName": "core",
     "targets": [
       "x86_64-pc-windows-msvc",
       "x86_64-apple-darwin",

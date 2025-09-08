@@ -12,7 +12,7 @@
 # Generated codes
 index.js                         linguist-detectable=false
 index.d.ts                       linguist-detectable=false
-composer.wasi-browser.js linguist-detectable=false
-composer.wasi.cjs        linguist-detectable=false
+core.wasi-browser.js linguist-detectable=false
+core.wasi.cjs        linguist-detectable=false
 wasi-worker-browser.mjs          linguist-detectable=false
 wasi-worker.mjs                  linguist-detectable=false
