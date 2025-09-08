@@ -1,4 +1,4 @@
-# `@napi-rs/package-template`
+# `@crossword-composer-ts/core`
 
 ![https://github.com/napi-rs/package-template/actions](https://github.com/napi-rs/package-template/workflows/CI/badge.svg)
 
@@ -14,7 +14,7 @@
 ## Install this test package
 
 ```bash
-yarn add @napi-rs/package-template
+yarn add @crossword-composer-ts/core
 ```
 
 ## Ability
